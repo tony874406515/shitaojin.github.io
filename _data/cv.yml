@@ -1,0 +1,205 @@
+cv:
+  name: Shitao Jin
+  label: PhD Candidate in Architecture
+  email: shitaojin@tongji.edu.cn
+  phone: "+86 189-8601-1150"
+  location: Shanghai, China / Melbourne, Australia
+  image: /assets/img/profile.jpg
+  summary: PhD candidate in Architecture at Tongji University and joint-training researcher at The University of Melbourne. Research interests include architectural programming, AI-enabled decision-making, collective intelligence, and megaproject governance.
+
+  social_networks:
+    - network: Google Scholar
+      username: T9kDpQoAAAAJ
+    - network: ORCID
+      username: 0000-0002-2824-7318
+    - network: LinkedIn
+      username: shitao-jin-55ab8832b
+
+  sections:
+    Education:
+      - institution: The University of Melbourne
+        location: Melbourne, Australia
+        url: https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin
+        area: Department of Infrastructure Engineering, Faculty of Engineering and Information Technology
+        studyType: Joint PhD Training / Visiting Graduate Researcher
+        start_date: 2025-09
+        end_date: present
+        highlights:
+          - "Thesis: A collaborative optimization system for architectural programming of mega infrastructure projects based on collective intelligence."
+          - "Research group: Engineering Management."
+          - "Supervisors: A/Prof Felix Kin Peng Hui and Dr Paulo Vaz-Serra."
+
+      - institution: Tongji University
+        location: Shanghai, China
+        area: Architecture, College of Architecture and Urban Planning
+        studyType: PhD
+        start_date: 2023-09
+        end_date: 2027-06
+        score: "GPA: 3.60/4.00"
+        highlights:
+          - "Supervisor: Prof. Huijun Tu."
+          - "Research focus: architectural programming, AI-enabled group decision-making, and megaproject management."
+
+      - institution: Huazhong University of Science and Technology
+        location: Wuhan, China
+        area: Architecture
+        studyType: Master of Architecture
+        start_date: 2020-09
+        end_date: 2023-06
+        score: "GPA: 3.48/4.00"
+
+      - institution: Jilin Jianzhu University
+        location: Changchun, China
+        area: Architecture
+        studyType: Bachelor of Architecture
+        start_date: 2015-09
+        end_date: 2020-06
+
+    Research Profile:
+      - name: AI-enabled architectural programming
+        summary: Developed a coherent research program around architectural programming as the front-end decision system of complex public projects.
+        highlights:
+          - Architectural programming and briefing for complex public projects.
+          - AI-enabled decision-making, collective intelligence, and multi-agent reinforcement learning.
+          - Megaproject governance, complexity, risk, stakeholder coordination, and public concerns.
+
+      - name: Computational methods for design and project governance
+        summary: Combines computational social science, decision science, and design research methods for early-stage public project planning.
+        highlights:
+          - Text mining, topic modeling, sentiment analysis, bibliometrics, and systematic review.
+          - Social network analysis, entropy weight, fuzzy TOPSIS, grey relational analysis, and Monte Carlo simulation.
+          - Deep learning and computer vision for child-friendly urban street evaluation.
+
+    Selected Publications:
+      - title: Dynamics and Influences Analysis of Public Concerns in Mega Construction Projects
+        authors:
+          - Shitao Jin
+        publisher: Journal of Construction Engineering and Management
+        releaseDate: 2026
+        url: https://doi.org/10.1061/JCEMD4.COENG-17561
+        summary: Integrated topic and sentiment modeling approach for public concerns in mega construction projects.
+
+      - title: Risk Identification and Assessment of Mega Construction Projects in Uncertain Environments
+        authors:
+          - Shitao Jin
+          - Xudong Miao
+        publisher: Journal of Architectural Engineering
+        releaseDate: 2026
+        url: https://doi.org/10.1061/JAEIED.AEENG-2153
+        summary: Gray fuzzy group decision-making and Monte Carlo simulation for risk assessment.
+
+      - title: Interdisciplinary Perspective on Architectural Programming
+        authors:
+          - Shitao Jin
+        publisher: Engineering, Construction and Architectural Management
+        releaseDate: 2025
+        url: https://doi.org/10.1108/ECAM-04-2024-0408
+        summary: Review of current status and future directions in architectural programming.
+
+      - title: Enhancing Architectural Education Through Artificial Intelligence
+        authors:
+          - Shitao Jin
+          - Huijun Tu
+          - Jiangfeng Li
+          - Yuwei Fang
+          - Qu Zhang
+          - Fan Xu
+          - Kun Liu
+          - Yiquan Lin
+        publisher: Buildings
+        releaseDate: 2024
+        url: https://doi.org/10.3390/buildings14061613
+        summary: Case study of an AI-assisted architectural programming and design course.
+
+    Peer Review and Academic Service:
+      - company: Web of Science / Publons / ORCID
+        position: Verified peer reviewer
+        location: International
+        start_date: 2024
+        end_date: 2026
+        summary: 146 verified reviews across 7 journals.
+        highlights:
+          - "Engineering, Construction and Architectural Management: 73 reviews."
+          - "Buildings: 32 reviews."
+          - "Sustainability: 31 reviews."
+          - "Systems, SAGE Open, Geocarto International, and Journal of Asian Architecture and Building Engineering."
+
+    Honors and Awards:
+      - title: National Scholarship for PhD Students
+        date: 2025
+        awarder: Ministry of Education of the People's Republic of China
+        summary: National-level scholarship for doctoral students.
+
+      - title: National Scholarship for PhD Students
+        date: 2024
+        awarder: Ministry of Education of the People's Republic of China
+        summary: National-level scholarship for doctoral students.
+
+      - title: National Scholarship for Master Students
+        date: 2022
+        awarder: Ministry of Education of the People's Republic of China
+
+      - title: Other academic awards
+        date:
+        summary: Outstanding Graduate; Three-Good Graduate; First-Class Academic Scholarship; Zhixing Excellence Award; Jilin Provincial Government Scholarship; First-Class Undergraduate Academic Scholarship; First Prize in the National BIM Graduation Design Competition; Second Prize in the National College English Competition.
+
+    Professional Practice:
+      - company: China Railway Siyuan Survey and Design Group Co., Ltd.
+        position: Architectural Management Intern
+        location: China
+        start_date: 2022-07
+        end_date: 2022-08
+        highlights:
+          - Construction documentation for Nantong Station and Changzhou South Station.
+          - Schematic design for Wenzhou East Station urban transport interchange center.
+
+      - company: China Architecture Design and Research Group
+        position: Architectural Design Intern
+        location: China
+        start_date: 2021-07
+        end_date: 2021-09
+        highlights:
+          - Green building design, energy-saving calculations, and construction drawings for Jinan Evergrande International Financial Center.
+
+      - company: Wuhan Hechuang Architectural Design Co., Ltd.
+        position: Architectural Design Intern
+        location: Wuhan, China
+        start_date: 2019-06
+        end_date: 2019-08
+        highlights:
+          - Campus planning and architectural design for Wuhan Optics Valley No. 13 Junior High School.
+
+    Skills:
+      - name: Computational research
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: Python, machine learning, natural language processing, deep learning, multi-agent reinforcement learning
+
+      - name: Decision and text analytics
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: Bibliometrics, LDA topic modeling, sentiment analysis, social network analysis, entropy weight, fuzzy TOPSIS, Monte Carlo simulation
+
+      - name: Architecture and design software
+        level: Advanced
+        icon: fa-solid fa-drafting-compass
+        keywords: Rhino, Grasshopper, Revit, AutoCAD, SketchUp, Photoshop, Illustrator, InDesign, Premiere Pro
+
+    Languages:
+      - name: Chinese
+        summary: Native speaker
+      - name: English
+        summary: IELTS 7.0
+
+    References:
+      - name: Prof. Huijun Tu
+        icon: fa-solid fa-user-graduate
+        reference: Doctoral supervisor, College of Architecture and Urban Planning, Tongji University.
+
+      - name: A/Prof Felix Kin Peng Hui
+        icon: fa-solid fa-user-graduate
+        reference: Joint-training supervisor, Department of Infrastructure Engineering, Faculty of Engineering and Information Technology, The University of Melbourne.
+
+      - name: Dr Paulo Vaz-Serra
+        icon: fa-solid fa-user-graduate
+        reference: Joint-training supervisor, The University of Melbourne.

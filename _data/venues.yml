@@ -1,0 +1,27 @@
+"JCEM":
+  url: https://ascelibrary.org/journal/jcemd4
+  color: "#1f5f8b"
+
+"JAE":
+  url: https://ascelibrary.org/journal/jaeied
+  color: "#1f5f8b"
+
+"ECAM":
+  url: https://www.emerald.com/insight/publication/issn/0969-9988
+  color: "#00843d"
+
+"FAR":
+  url: https://journal.hep.com.cn/foar/EN/home
+  color: "#7c3f98"
+
+"Buildings":
+  url: https://www.mdpi.com/journal/buildings
+  color: "#bd4f19"
+
+"Sustainability":
+  url: https://www.mdpi.com/journal/sustainability
+  color: "#0f766e"
+
+"CAADRIA":
+  url: https://caadria.org/
+  color: "#444444"

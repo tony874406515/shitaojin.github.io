@@ -1,0 +1,11 @@
+# Social links are displayed in the order they are defined here.
+cv_pdf: /assets/pdf/Shitao_Jin_CV_Long_EN.pdf
+email: shitaojin@tongji.edu.cn
+scholar_userid: T9kDpQoAAAAJ
+orcid_id: 0000-0002-2824-7318
+linkedin_username: shitao-jin-55ab8832b
+work_url: https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin
+custom_social:
+  logo: fa-solid fa-user-check
+  title: Web of Science Researcher Profile
+  url: https://www.webofscience.com/wos/author/record/GQY-9801-2022
