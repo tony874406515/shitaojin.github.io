@@ -10,6 +10,7 @@ Personal academic website for Shitao Jin, built with the [al-folio](https://gith
 - `_data/cv.yml`: CV page data
 - `_data/socials.yml`: academic and contact links
 - `assets/img/profile.jpg`: profile photo
+- `assets/css/custom.css`: local visual styling overrides
 - `assets/img/publication_preview/`: publication preview images referenced by the `preview` field in `_bibliography/papers.bib`
 - `assets/pdf/`: CV PDFs and selected paper PDFs
 
