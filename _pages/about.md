@@ -60,20 +60,20 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
 
 <div class="highlight-grid">
   <div class="highlight-card">
-    <strong>Joint doctoral training</strong>
-    <span>The University of Melbourne since September 2025, supervised by A/Prof Felix Kin Peng Hui and Dr Paulo Vaz-Serra.</span>
+    <strong>AI in Architecture</strong>
+    <span>Researching how multi-agent reinforcement learning can support architectural programming, design, and evaluation.</span>
   </div>
   <div class="highlight-card">
-    <strong>National scholarships</strong>
-    <span>National Scholarship for PhD Students in 2024 and 2025; National Scholarship for Master Students in 2022.</span>
+    <strong>Megaproject decision-making</strong>
+    <span>Developing collective intelligence-based decision-making system for real-world mega transportation project.</span>
   </div>
   <div class="highlight-card">
     <strong>Verified peer review</strong>
-    <span>Web of Science / Publons / ORCID reviewer, with 146 reviews across 7 journals from 2024 to 2026.</span>
+    <span>Recognized reviewer on Web of Science, with 164 verified reviews across 9 international journals.</span>
   </div>
   <div class="highlight-card">
     <strong>Publication venues</strong>
-    <span>Engineering, Construction and Architectural Management; Frontiers of Architectural Research; Buildings; Sustainability; Frontiers in Psychology; AEDM; JCEM; and JAE.</span>
+    <span>Published in leading peer-reviewed journals across architecture, management, and environment research, including JCEM, FoAR, and ECAM.</span>
   </div>
 </div>
 
@@ -86,27 +86,51 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
 <ul class="awards-list">
   <li>
     <span class="award-year">2025</span>
-    <span>National Scholarship for PhD Students, Ministry of Education of the PRC.</span>
+    <span>**National Scholarship**, Ministry of Education of the PRC</span>
+  </li>
+  <li>
+    <span class="award-year">2025</span>
+    <span>**Outstanding Student**, Tongji University</span>
   </li>
   <li>
     <span class="award-year">2024</span>
-    <span>National Scholarship for PhD Students, Ministry of Education of the PRC.</span>
+    <span>**National Scholarship**, Ministry of Education of the PRC</span>
+  </li>
+  <li>
+    <span class="award-year">2024</span>
+    <span>**Outstanding Student**, Tongji University</span>
+  </li>
+  <li>
+    <span class="award-year">2023</span>
+    <span>**Outstanding Graduate**, Huazhong University of Science and Technology</span>
   </li>
   <li>
     <span class="award-year">2022</span>
-    <span>National Scholarship for Master Students, Ministry of Education of the PRC.</span>
+    <span>**National Scholarship**, Ministry of Education of the PRC.</span>
   </li>
   <li>
     <span class="award-year">2022</span>
-    <span>Outstanding Graduate and First-Class Academic Scholarship, Tongji University.</span>
+    <span>**Excellent graduate student**, Huazhong University of Science and Technology</span>
+  </li>
+  <li>
+    <span class="award-year">2022</span>
+    <span>**First-Class Scholarship**, Huazhong University of Science and Technology</span>
+  </li>
+  <li>
+    <span class="award-year">2021</span>
+    <span>**First-Class Scholarship**, Huazhong University of Science and Technology</span>
   </li>
   <li>
     <span class="award-year">2020</span>
-    <span>First Prize, National BIM Graduation Design Innovation Competition.</span>
+    <span>**First-Class Scholarship**, Huazhong University of Science and Technology</span>
+  </li>
+  <li>
+    <span class="award-year">2020</span>
+    <span>**First Prize**, National BIM Graduation Design Competition</span>
   </li>
   <li>
     <span class="award-year">2019</span>
-    <span>Jilin Provincial Government Scholarship and First-Class Undergraduate Academic Scholarship.</span>
+    <span>**Jilin Provincial Government Scholarship**, Jilin Provincial Education Commission</span>
   </li>
 </ul>
 
