@@ -62,7 +62,7 @@
     },
     {
       title: "Exploration of the Applications of Next-Generation Artificial Intelligence in Architectural Creation",
-      info: "CNKI, IF=N/A",
+      info: "CNKI, IF=0.4",
       corresponding: ["Huijun Tu"],
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       title: "Analysis of Campus Learning Environment Elements for Promoting Innovative Talent Cultivation",
-      info: "CNKI, IF=N/A",
+      info: "CNKI, IF=1.3",
       corresponding: ["Lei Peng"],
     },
     {
