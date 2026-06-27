@@ -21,6 +21,11 @@
       corresponding: ["Xiaoming Zhu"],
     },
     {
+      title: "A Deep Learning-Based Evaluation System for Child-Friendly Urban Streets",
+      info: "SCIE Q2, IF=2.8",
+      corresponding: ["Huijun Tu", "Xudong Miao"],
+    },
+    {
       title: "Current Status and Trends of Megaproject Research",
       info: "SCIE/SSCI Q1, IF=4.5",
       corresponding: ["Shitao Jin"],
@@ -48,6 +53,59 @@
     {
       title: "Current Status and Research Progress in Architectural Programming",
       info: "AHCI Q1, IF=4.4",
+      corresponding: ["Huijun Tu"],
+    },
+    {
+      title: "Deep Learning-Based Systems for Evaluating and Enhancing Child-Friendliness of Urban Streets",
+      info: "SCIE Q2, IF=3.4",
+      corresponding: ["Huijun Tu", "Xudong Miao"],
+    },
+    {
+      title: "Exploration of the Applications of Next-Generation Artificial Intelligence in Architectural Creation",
+      info: "CNKI, IF=N/A",
+      corresponding: ["Huijun Tu"],
+    },
+    {
+      title: "Enhancing Architectural Education Through Artificial Intelligence",
+      info: "SCIE Q2, IF=3.4",
+      corresponding: ["Huijun Tu"],
+    },
+    {
+      title: "A Group Decision-Making Model for Architectural Programming in Megaprojects",
+      info: "SCIE/SSCI Q1, IF=4.5",
+      corresponding: ["Huijun Tu"],
+    },
+    {
+      title: "Classroom Perception in Higher Education",
+      info: "SSCI Q1, IF=3.8",
+      corresponding: ["Lei Peng"],
+    },
+    {
+      title: "Students' Perceptions of Active Learning Classrooms from an Informal Learning Perspective",
+      info: "SCIE/SSCI Q2, IF=4.1",
+      corresponding: ["Shitao Jin"],
+    },
+    {
+      title: "Student Experience and Satisfaction in Academic Libraries",
+      info: "SCIE Q2, IF=3.4",
+      corresponding: ["Wenyi Fan"],
+    },
+    {
+      title: "The Evaluation of Active Learning Classrooms",
+      info: "SCIE/SSCI Q2, IF=4.1",
+      corresponding: ["Shitao Jin"],
+    },
+    {
+      title: "Analysis of Campus Learning Environment Elements for Promoting Innovative Talent Cultivation",
+      info: "CNKI, IF=N/A",
+      corresponding: ["Lei Peng"],
+    },
+    {
+      title: "Collective Intelligence in Architectural Programming",
+      corresponding: ["Shitao Jin"],
+    },
+    {
+      title: "Reprogramming Urban Communities",
       corresponding: ["Shitao Jin"],
     },
   ];
@@ -56,7 +114,7 @@
 
   const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-  const markCorrespondingAuthors = (authorLine, names) => {
+  const markCorrespondingAuthors = (authorLine, names = []) => {
     if (!authorLine || authorLine.dataset.correspondingMarked === "true") return;
 
     let html = authorLine.innerHTML;
@@ -84,7 +142,7 @@
 
       markCorrespondingAuthors(item.querySelector(".author"), metric.corresponding);
 
-      if (item.querySelector(".publication-metrics")) return;
+      if (!metric.info || item.querySelector(".publication-metrics")) return;
 
       const metricLine = document.createElement("div");
       metricLine.className = "publication-metrics";
