@@ -92,7 +92,7 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
       </tr>
       <tr>
         <th>May 09, 2026</th>
-        <td>I delivered an invited <a href="https://papers.cumincad.org/data/works/att/caadria2026_268.pdf">presentation</a> at the <a href="https://www.caadria2026.org/">31st International Conference on CAADRIA</a>, NYCU, Hsinchu, Taiwan.</td>
+        <td>I delivered an invited <a href="https://papers.cumincad.org/data/works/att/caadria2026_268.pdf">presentation</a> at the <a href="https://www.caadria2026.org/">31st International Conference on CAADRIA</a>, NYCU, Hsinchu, Taiwan, China.</td>
       </tr>
       <tr>
         <th>Apr 18, 2026</th>
@@ -207,7 +207,7 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
 <ul class="awards-list awards-list--excerpt">
   <li>
     <span class="award-year">2025</span>
-    <span><strong>National Scholarship</strong>, Ministry of Education of the PRC</span>
+    <span><strong>National Scholarship</strong>, Ministry of Education of the P.R.C.</span>
   </li>
   <li>
     <span class="award-year">2025</span>
@@ -215,7 +215,7 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
   </li>
   <li>
     <span class="award-year">2024</span>
-    <span><strong>National Scholarship</strong>, Ministry of Education of the PRC</span>
+    <span><strong>National Scholarship</strong>, Ministry of Education of the P.R.C.</span>
   </li>
   <li>
     <span class="award-year">2024</span>
@@ -227,7 +227,7 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
   </li>
   <li>
     <span class="award-year">2022</span>
-    <span><strong>National Scholarship</strong>, Ministry of Education of the PRC.</span>
+    <span><strong>National Scholarship</strong>, Ministry of Education of the P.R.C.</span>
   </li>
   <li>
     <span class="award-year">2022</span>
@@ -247,7 +247,7 @@ I am interested in academic, postdoctoral, and research-oriented opportunities f
   </li>
   <li>
     <span class="award-year">2020</span>
-    <span><strong>First Prize</strong>, National BIM Graduation Design Competition</span>
+    <span><strong>First Prize</strong>, The National BIM Graduation Design Competition</span>
   </li>
   <li>
     <span class="award-year">2019</span>
